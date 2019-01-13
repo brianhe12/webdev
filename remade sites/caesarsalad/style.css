@@ -1,0 +1,23 @@
+h1 {
+	color: #00c07f;
+}
+
+img {
+	height: 150px;
+}
+
+.time{
+	color: gray;
+}
+
+a.external-link {
+	color: blue;
+}
+
+.ingredients{
+	list-style: square;
+}
+
+.backgroundC {
+	
+}
